@@ -1,0 +1,8 @@
+# Archivo de entorno 
+.env
+
+# Carpetas de caché de Python
+__pycache__/
+
+# Archivos de entorno de VSCode
+.vscode/
