@@ -2,6 +2,14 @@
 
 API RESTful desarrollada con FastAPI y MongoDB para gestionar usuarios y productos. Incluye autenticación de usuarios con tokens JWT.
 
+## API en vivo (Live API)
+
+La API está desplegada en Render y es accesible públicamente. La documentación interactiva (Swagger UI) se encuentra en la siguiente URL:
+
+**[https://guada-fastapi-api.onrender.com/docs](https://guada-fastapi-api.onrender.com/docs)**
+
+---
+
 ## Características
 
 - **Autenticación de Usuarios:** Sistema de registro y login con tokens JWT (JSON Web Tokens).
@@ -57,5 +65,5 @@ El servidor estará disponible en `http://127.0.0.1:8000`.
 
 Una vez que el servidor esté en marcha, puedes acceder a la documentación interactiva de la API en las siguientes rutas:
 
-- **Swagger UI:** [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-- **ReDoc:** [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
+- **Swagger UI:** [https://guada-fastapi-api.onrender.com/docs](https://guada-fastapi-api.onrender.com/docs)
+- **ReDoc:** [https://guada-fastapi-api.onrender.com/redoc](https://guada-fastapi-api.onrender.com/redoc)
