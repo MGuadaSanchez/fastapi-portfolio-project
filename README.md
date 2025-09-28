@@ -12,7 +12,7 @@ La API está desplegada en Render y es accesible públicamente. La documentació
 
 ## Características
 
-- **Autenticación de Usuarios:** Sistema de registro y login con tokens JWT (JSON Web Tokens).
+- **Autenticación de Usuarios:** Sistema de login con tokens JWT (JSON Web Tokens).
 - **Gestión de Usuarios:** Operaciones CRUD (Crear, Leer, Actualizar, Borrar) para usuarios.
 - **Ruta Protegida:** Endpoint `/users/me` que solo es accesible con un token válido.
 - **Gestión de Productos:** Operaciones CRUD completas para productos.
